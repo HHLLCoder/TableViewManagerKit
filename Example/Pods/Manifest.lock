@@ -1,0 +1,16 @@
+PODS:
+  - TableViewManagerKit (0.1.0)
+
+DEPENDENCIES:
+  - TableViewManagerKit (from `../`)
+
+EXTERNAL SOURCES:
+  TableViewManagerKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TableViewManagerKit: 19870c732af797723e47c74897165c07627ef681
+
+PODFILE CHECKSUM: ae729393e63731cb1c3c1f48217b0f54c63d8cc6
+
+COCOAPODS: 1.7.5
