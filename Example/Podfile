@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TableViewManagerKit_Example' do
+  pod 'TableViewManagerKit', :path => '../'
+
+  target 'TableViewManagerKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
